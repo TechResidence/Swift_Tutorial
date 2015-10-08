@@ -1,7 +1,6 @@
-# iOS Swift
-
- ### App Image ###
 ![Alt Text](https://github.com/TechResidence/SwiftTutorial/blob/master/Swift-logo.png)  
+
+# iOS Swift
 
 ### Memo ###
 Swift2.0
