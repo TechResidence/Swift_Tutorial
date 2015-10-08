@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D512AA65EF1073E6FD139098ABC9AD7580FD0F40",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4489760EC1DDD0B1BAE56B4BBC057FA31649C442" : 0,
+    "D512AA65EF1073E6FD139098ABC9AD7580FD0F40" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "445925A8-BB05-408A-B9E5-4BCE4C7A21A7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4489760EC1DDD0B1BAE56B4BBC057FA31649C442" : "",
+    "D512AA65EF1073E6FD139098ABC9AD7580FD0F40" : "NSMutableString\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NSMutableString",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NSMutableString.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MMasahito\/iOS_Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4489760EC1DDD0B1BAE56B4BBC057FA31649C442"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MMasahito\/NSMutableString.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D512AA65EF1073E6FD139098ABC9AD7580FD0F40"
+    }
+  ]
+}
