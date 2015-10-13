@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  NSMutableString_delete
 //
-//  Created by Masahito Mizogaki on 2015/10/02.
-//  Copyright © 2015年 Masahito Mizogaki. All rights reserved.
+//  Created by [MMasahito](https://github.com/MMasahito) on 2015/10/02.
+//  Copyright © 2015年 MMizogaki. All rights reserved.
 //
 
 import UIKit
