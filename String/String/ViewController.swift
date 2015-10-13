@@ -40,6 +40,26 @@ class ViewController: UIViewController {
             print("全然違う")
             return
         }
+        
+        let address = "東京都渋谷区神宮前３−５−６"
+        let findIndex = address.characters.indexOf("都")
+        
+        if findIndex != nil {
+           
+            let address1 = address[address.startIndex...findIndex!]
+            print("address1：\(address1)")
+            
+            
+            let start2 = findIndex?.successor() //インデックスを１つ進める
+            let end2 = address.endIndex
+            let address2 = str[start2!..<end2]
+            print("address2：\(address2)")
+            
+        }else{
+            print("not found")
+        }
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
